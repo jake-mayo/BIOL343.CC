@@ -39,7 +39,7 @@ Write the group members as an **ordered list** (Chapter 5, *Lists*). For each me
     +[BIOL343_CC](https://github.com/Jake-Mayo/BIOL343_CC)
 5. **Noah Lu** - 20483156
     +[BIOL343_CC](https://github.com/NLRcode/BIOL343_CC)
-6. **Iryna Oz** - 20483156
+6. **Iryna Oz** - 20508451
     +[BIOL343_CC](https://github.com/irynaoz323/BIOL343_CC)
 
 # Setup chunk
@@ -144,7 +144,7 @@ Your project folder is a GitHub repository (Chapter 6). Before you submit:
 1. Make sure the repository contains the `.Rmd`, `data/A1_Data_Excel.csv`, `images/` with your photo, and the knitted `.html`, and that everything is **committed and pushed**.
 1. Paste the **SHA** of your final commit (Chapter 6, *Timeline*; the 7-character code shown beside each commit on GitHub) below, formatted as in-line code with back-ticks.
 
-Final commit SHA: `daa2ad4`
+Final commit SHA: `de07b06`
 
 # DO THIS LAST {-}
 
